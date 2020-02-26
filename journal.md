@@ -1,3 +1,16 @@
+# Week 3
+1. 0.5h Get journal/goals into shape, push them to Github
+2. 2.5h Learn Python 3 the hard way: 
+    Fix ex16.py drill 3
+    Finish ex16-22
+3. 0.5h Ex23 is relatively difficult to understand. Got stuck in this. 
+    Skip from Ex23 to Ex 28
+4. 2.5h Finish ex29-38  review and learn: if, elif, else, loops, lists
+    Ex35, a little complicated. 
+    Ex37 symbol review pp.162-165
+    Ex38, not sure about the last two lines
+
+
 # Week 2
 1. 1h Review command line, explore Github, push/commits from Command line to Github, install Anaconda
 2. 1h Push/Commits to Github, explore Python, stuck by “This Python interpreter is in a conda environment, but the environment has not been activated.” Stuck in this issue for a while. 
