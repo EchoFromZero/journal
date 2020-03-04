@@ -1,3 +1,11 @@
+# Week 4 (Week 2/26-3/3)
+1. 11:00-12:00 (1h) Make a small program to random group students into small groups!
+	Got a basic model! Done! v1
+2. 8:50-12:00 (3h)	In v1: I need to change manually the number of groups, the number of members. I want to make it change according to needs. Version 2 done. Can remove absent students. Do groups of students as you want. 
+3. (1h) Adjusting the version 2; testing with another roster. 
+4. Reading  (2h): Read *A Web for Everyone: Chapters 1 and 2 How People with Disabilities Use the Web: Tools and Techniques (W3C)*; *Dear Developer, The Web Isn't About You*; *Two Bit History: The World Wide Web and Its Inventor*
+
+
 # Week 3
 1. 0.5h Get journal/goals into shape, push them to Github
 2. 2.5h Learn Python 3 the hard way: 
