@@ -1,3 +1,12 @@
+# Week 5 (Week 3/4-3/10)
+1. install Jekyll, read articles: “Why Use a Static Site Generator?”, “Creating a website with WordPress: The good and the bad”, “What is Bootstrap? – The History and the Hype,” “Brutalism: The ‘ugly’ web design trend taking over the internet”
+2. Start to use Jekyll, learn more about web hosting, GitHub Pages …
+Was trying to configure a subdomain, but couldn’t understand “Navigate to your DNS provider and create a CNAME record that points your subdomain to the default domain for your site. For example, if you want to use the subdomain www.example.com for your user site, create a CNAME record that points www.example.com to <user>.github.io. For more information about how to create the correct record, see your DNS provider's documentation. ”
+3. Pull in the Index.html we did in-class. Push it to the new repository. Now the page can be found under the domain “echofromzero.github.io”.
+4. Spend more time on HTML and CSS: HTML on W3Schools: Surprised to know these little details for accessibility! Such as “The lang Attribute,” “Alt Attribute” Go through basic HTML tutorial to The id Attribute. <button onclick="document.location = 'default.asp'">HTML Tutorial</button>  … How to make it a link to website? Not sure.
+After I push the codes to GitHub, why does the website not change to its latest version? (It takes a few seconds to change.)
+
+
 # Week 4 (Week 2/26-3/3)
 1. 11:00-12:00 (1h) Make a small program to random group students into small groups!
 	Got a basic model! Done! v1
