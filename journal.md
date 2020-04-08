@@ -1,3 +1,7 @@
+# Week 4/7-4/14
+1. 2h create final projects file (bookstore), list the details of about.md, create a tentative booklist (csv) for testing. But don't know why in the author's categories, there is a pair of quotation marks. Really excited about this project. 
+
+
 # Week 5 (Week 3/4-3/10)
 1. install Jekyll, read articles: “Why Use a Static Site Generator?”, “Creating a website with WordPress: The good and the bad”, “What is Bootstrap? – The History and the Hype,” “Brutalism: The ‘ugly’ web design trend taking over the internet”
 2. Start to use Jekyll, learn more about web hosting, GitHub Pages …
