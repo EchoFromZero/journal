@@ -1,5 +1,7 @@
 # Week 4/7-4/14
 1. 2h create final projects file (bookstore), list the details of about.md, create a tentative booklist (csv) for testing. But don't know why in the author's categories, there is a pair of quotation marks. Really excited about this project. 
+2. 3.5h Set up a barcode scanner; figuring out how to incorporate csv into a dictionary, how to search under csv.DictReader, but not wroking... Can print out the full list. Still working on the search function.
+3. 4h work on the loops for the essential features of the inventory. Not sure if csv is a good idea to save the data. Still trying to figure out a way to mark down the sale without making the syntax too convoluted.  
 
 
 # Week 5 (Week 3/4-3/10)
