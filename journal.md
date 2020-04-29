@@ -1,7 +1,18 @@
+# Week 4/29 - 5/5
+1. 1h Fix isbn search ... Title search / Author serach not working ...
+2. 2h Build up an "Taking Order" pop-up window.
+
+# Week 4/22-4/28
+1. 1h pip install pandas; explore pandas; pandas is a very useful tool for csv. It has a nice display of the information. But the data analysis part is not what I needed here for my project.
+2. 1h Study a bookstore inventory program I downloaded. It uses sqlite3 to manage the bookstore inventory
+3. 2h learn sqlite3: https://docs.python.org/2/library/sqlite3.html I think sqlite3 will be my frame of the program. 
+4. 4h programming with sqlite3, tkinter. Figure out the basics of an inventory system. Don't know if there's an easy to import the information from csv to db? not sure how to display the data in a better way, like the data from pandas, also including the title line. next time I'll design the sell windows...
+
 # Week 4/7-4/14
 1. 2h create final projects file (bookstore), list the details of about.md, create a tentative booklist (csv) for testing. But don't know why in the author's categories, there is a pair of quotation marks. Really excited about this project. 
 2. 3.5h Set up a barcode scanner; figuring out how to incorporate csv into a dictionary, how to search under csv.DictReader, but not wroking... Can print out the full list. Still working on the search function.
-3. 4h work on the loops for the essential features of the inventory. Not sure if csv is a good idea to save the data. Still trying to figure out a way to mark down the sale without making the syntax too convoluted.  
+3. 4h work on the loops for the essential features of the inventory. Not sure if csv is a good idea to save the data. Still trying to figure out a way to mark down the sale without making the syntax too convoluted. 
+4. 1.5h Plan to use sqlite3 as my database and tkinter as my interface.  
 
 
 # Week 5 (Week 3/4-3/10)
