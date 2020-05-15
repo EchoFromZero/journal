@@ -1,6 +1,47 @@
+# Week 5/13-5/19
+1. 5h Adjust the program
+    Question-1: when I open "tsv" with Excel, sometimes ISBN is changed into "9.7814E+12". Then it will authomatically be changed into approximation "9781000000000," which also causes error when I run the python file. "ValueError: invalid literal for int() with base 10: '9.7814E+12'"
+    I found the question online: https://stackoverflow.com/questions/22647042/how-to-save-excel-columns-with-long-numbers-into-csv
+    I tried the method of putting in "=9780998829036"; it works as long as I don't make any other changes in the file. If I directly edit the file, the problem occurs again. (Which was the reason why I favor the txt file at first.)
+
+    It seems that the most doable method is:
+    Excel is trying to "help" you by formatting the input values. To avoid this, **do not double-click the file to open it**. Instead, open the Data tab and in the Get External Data section, click on From Text. Tell to transform the column of ISBN as text, instead of number.
+
+    If editing in the Excel (tsv file), one needs to save it as (txt, tab delimited) (then changes it into tsv file).
+    Question-1 solved.
+
+    Question-2:  how to store all the results in the for loop? If I get search for the two books by the same author. 
+    Solution: Store the results in a list. Then run a for loop to iterate the elements in the list.
+    Question-2 solved.
+
+2. 3h Can print out all the receipts when one checks out and all the receipts are stored in the file. 
+
+3. 1h Currently I want to work on a daily report. In a txt file, that presents the total number books sold; Grand Total gains. It also presents books sold by day (May 14, 15, 16, ...): number of books sold in total; total gain/income by day; Details of the book sold by day. I think it relates to the time. But I don't know how to do that. Especially, that is to say, for example, today's current total, etc. It seems to relate to a period of time. 
+The form would be something like this:
+Total number of books that are sold:
+Grand Total: $
+
+May 14, 2020
+Number of books that are sold in total:
+Total: $
+Details of books sold:
+Title of the book, daily sold number
+
+May 15, 2020
+Number of books that are sold in total:
+Total: $
+Details of books sold:
+Title of the book, daily sold number
+
+4. Update the about.md
+
+# Week 5/6 - 5/12
+1. 1.5h Testing how to convert csv to db, how to convert db into the dictionary format. trying to figure out a way to save the rows into a new data
+2. 10h Back to basic Python, dictionary,  list. adjust and tune the program ...
 # Week 4/29 - 5/5
 1. 1h Fix isbn search ... Title search / Author serach not working ...
-2. 2h Build up an "Taking Order" pop-up window.
+2. 2.5h Build up an "Taking Order" pop-up window.
+3. 1.5h Stuck in how to build up "Total price" // extracting information from the list(?) database?
 
 # Week 4/22-4/28
 1. 1h pip install pandas; explore pandas; pandas is a very useful tool for csv. It has a nice display of the information. But the data analysis part is not what I needed here for my project.
